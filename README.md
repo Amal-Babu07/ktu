@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [KTK university site] 🎯
 
 
 ## Basic Details
@@ -31,7 +31,7 @@ For Software:
 - [Tools used: Live Server (for local development with auto-refresh), Web Browser Developer Tools]
 
 
-# Screenshots (Add at least 3)
+# Screenshots 
 [https://drive.google.com/file/d/12_kksZNYzZQo1Itu3Yjm04eLHvOEzl0h/view?usp=sharing code]
 
 
@@ -50,7 +50,7 @@ For Software:
 
 ## Team Contributions
 - [Amal Babu]: [HTML5, CSS3,Bootstrap 5]
-- [Abijith B]: [JavaScript,CSS3]
+- [Abijith B]: [JavaScript, CSS3]
 
 Made with ❤️ at TinkerHub Useless Projects 
 
