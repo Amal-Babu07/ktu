@@ -32,43 +32,26 @@ For Software:
 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+[https://drive.google.com/file/d/12_kksZNYzZQo1Itu3Yjm04eLHvOEzl0h/view?usp=sharing code]
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+[https://drive.google.com/file/d/1efwAeK1dgzzB5NpwrnAEmffB8BxJRzZj/view?usp=sharing final product]
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+[https://drive.google.com/file/d/12_kksZNYzZQo1Itu3Yjm04eLHvOEzl0h/view?usp=sharing code]
 
-![Final](Add photo of final product here)
-*Explain the final build*
+[https://drive.google.com/file/d/1efwAeK1dgzzB5NpwrnAEmffB8BxJRzZj/view?usp=sharing final product]
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1Lk9pttGL3bvE2niqunThVkJ8KNB9DkLY/view?usp=sharing error output]
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Amal Babu]: [HTML5, CSS3,Bootstrap 5]
+- [Abijith B]: [JavaScript,CSS3]
 
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
